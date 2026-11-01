@@ -4,7 +4,8 @@
 
 - costruire un archivio personale delle foto dei fotografi che ami;
 - guardarle con strumenti per leggere la composizione;
-- metterle accanto alle tue su un tavolo, per comporre sequenze e storie.
+- metterle accanto alle tue su un tavolo, per comporre sequenze e storie;
+- sviluppare le tue foto e prepararle per Instagram.
 
 Funziona tutto sul tuo computer: niente account, niente cloud, niente abbonamenti.
 
@@ -95,6 +96,32 @@ Il pulsante **?** (oppure H) apre una guida su come e quando usare ogni strument
 
 ---
 
+## Sviluppa: luce e colore delle tue foto
+
+Apri una tua foto a tutto schermo e clicca **Sviluppa** (tasto D).
+- **Luce:** esposizione, contrasto, luci, ombre, bianchi, neri.
+- **Colore:** temperatura, tinta, vividezza, saturazione, bianco e nero. In bianco e nero temperatura e tinta fanno da filtro colorato, come i filtri della pellicola.
+- **Effetti:** chiarezza, vignettatura.
+
+Il doppio clic su un cursore lo azzera e **Prima / dopo** (tasto \\) mostra l'originale. Gli strumenti di studio lavorano sulla foto sviluppata: con **Masse** vedi subito come cambiano i pesi.
+
+L'originale non cambia mai: le regolazioni restano in Keepers e un punto giallo segna la miniatura. Miniature e tavoli continuano a mostrare l'originale. Per avere un file usa **Esporta JPEG…**, che ne crea uno nuovo a piena risoluzione (senza i dati EXIF). Sui RAF si sviluppa il JPEG incorporato dalla fotocamera. Le foto dei maestri non si sviluppano.
+
+![Il pannello Sviluppa](docs/it-sviluppo.png)
+
+---
+
+## Instagram: le tue foto su sfondo bianco
+
+- **Una foto:** a tutto schermo clicca **Instagram…**.
+- **Un progetto intero:** sul tavolo clicca **Instagram…**. Keepers crea una cartella con i file numerati in ordine di lettura, pronti per un carosello. Le foto dei maestri restano fuori e un avviso dice quante sono.
+
+Nell'anteprima scegli il formato, **quadrato 1:1** (1080×1080), **verticale 4:5** (1080×1350) o **3:4** (1080×1440), e il margine. La foto resta intera e centrata, e le regolazioni di Sviluppa vengono applicate.
+
+![La finestra Instagram](docs/it-instagram.png)
+
+---
+
 ## Scarta: Keepers non cancella mai una foto
 
 **Scarta** (tasto X, oppure × sulla miniatura) sposta la foto in una cartella `_scarti`, che si può rivedere. Da lì **Ripristina** la rimette al suo posto. Puoi anche selezionarne molte insieme: Ctrl+clic, Maiusc+clic o il cerchietto sulla miniatura.
@@ -107,7 +134,7 @@ Il pulsante **?** (oppure H) apre una guida su come e quando usare ogni strument
 
 | Cosa | Dove |
 |---|---|
-| Archivio degli autori, tavoli, linee, etichette | `Immagini\Keepers\` |
+| Archivio degli autori, tavoli, linee, regolazioni di sviluppo, etichette | `Immagini\Keepers\` |
 | Impostazioni e miniature | `%APPDATA%\Keepers\` |
 
 Per un backup basta copiare la cartella `Immagini\Keepers`. Disinstallando Keepers (Impostazioni → App) le tue foto non vengono toccate.

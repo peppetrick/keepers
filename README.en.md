@@ -4,7 +4,8 @@
 
 - build a personal archive of the photographers you love;
 - look at their pictures with tools for reading composition;
-- put them next to your own on a board to compose sequences and stories.
+- put them next to your own on a board to compose sequences and stories;
+- develop your own photos and prepare them for Instagram.
 
 Everything stays on your computer: no account, no cloud, no subscription.
 
@@ -95,6 +96,32 @@ The **?** button (or H) opens a guide on how and when to use each tool.
 
 ---
 
+## Develop: the light and colour of your photos
+
+Open one of your photos full screen and click **Develop** (D key).
+- **Light:** exposure, contrast, highlights, shadows, whites, blacks.
+- **Colour:** temperature, tint, vibrance, saturation, black & white. In black & white, temperature and tint act as a colour filter, like film filters.
+- **Effects:** clarity, vignette.
+
+Double-click a slider to reset it, and **Before / after** (\\ key) shows the original. The study tools work on the developed photo: with **Masses** you see right away how the weights change.
+
+The original never changes: adjustments stay in Keepers and a yellow dot marks the thumbnail. Thumbnails and boards keep showing the original. To get a file, use **Export JPEG…**, which creates a new full-resolution one (without EXIF data). On RAF files you develop the JPEG embedded by the camera. The masters' photos can't be developed.
+
+![The Develop panel](docs/en-sviluppo.png)
+
+---
+
+## Instagram: your photos on a white background
+
+- **One photo:** in the full-screen view, click **Instagram…**.
+- **A whole project:** on a board, click **Instagram…**. Keepers creates a folder of files numbered in reading order, ready for a carousel. The masters' photos stay out, and a notice says how many.
+
+In the preview, choose the format, **square 1:1** (1080×1080), **portrait 4:5** (1080×1350) or **3:4** (1080×1440), and the margin. The photo stays whole and centred, and your Develop adjustments are applied.
+
+![The Instagram window](docs/en-instagram.png)
+
+---
+
 ## Reject: Keepers never deletes a photo
 
 **Reject** (X key, or × on a thumbnail) moves the photo to a `_scarti` (rejects) folder that you can review. From there, **Restore** puts it back where it was. You can select many photos at once with Ctrl+click, Shift+click or the circle on each thumbnail.
@@ -107,7 +134,7 @@ The **?** button (or H) opens a guide on how and when to use each tool.
 
 | What | Where |
 |---|---|
-| Photographers' archive, boards, lines, tags | `Pictures\Keepers\` |
+| Photographers' archive, boards, lines, Develop adjustments, tags | `Pictures\Keepers\` |
 | Settings and thumbnails | `%APPDATA%\Keepers\` |
 
 To back everything up, copy the `Pictures\Keepers` folder. Uninstalling Keepers (Settings → Apps) doesn't touch your photos.
