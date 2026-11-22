@@ -30,11 +30,13 @@ Requirements: 64-bit Windows 10 or 11. To update, download the new installer and
 
 ### 1. Photographers: your archive of the masters
 
-**Index.** A list of photographers grouped by genre (Street, Humanist, Documentary & reportage, Portrait, Colour…), each with a note on what to look at in their work.
+**Index.** A list of photographers grouped by genre (Street, Humanist, Documentary & reportage, Portrait, Colour…), each with a note on what to look at in their work. For photographers who cross several genres there's **Various**.
 - Click a name to add the photographer to your archive and immediately open a Google Images search.
 - For someone who isn't listed, fill in the **Add to index** form: a name, a genre (pick one or type a new one) and an optional note.
 
 ![The photographers index, grouped by genre](docs/en-indice.png)
+
+**Collections.** At the top of the Index you can create collections of photos by different photographers: a contest (for example WSPA), a magazine, an exhibition, a book. Type the name and, if you like, the website link, then **Create collection**. A collection works like a photographer: you find it at the top of the left column and save photos into it with right-click.
 
 **Browse.** A browser inside the app. Use it like any browser: Google Images, the photographer's site, Instagram, articles, the Magnum archive…
 - When you find a picture you like, use **right-click → Save to &lt;photographer&gt;**. Right-click also works on Instagram, where photos are covered by transparent layers, and Keepers picks the largest version available.
@@ -69,6 +71,7 @@ Requirements: 64-bit Windows 10 or 11. To update, download the new installer and
 A board is an infinite surface where you lay out photos: your own, the masters', or both. Use it to try sequences, pairs and diptychs.
 - **Add photos** opens the drawer: drag photos onto the board. The drawer only shows photos that aren't on the board yet.
 - Drag a photo to move it, use its bottom-right corner to resize it and the mouse wheel to zoom. Double-click a photo to see it full screen.
+- From the full-screen view, **Add to board** asks which board to put the photo on (or creates a new one) and confirms with a message. A photo that's already there isn't added twice.
 - **R** makes every photo the size of the selected one, **Ctrl+O** / **Ctrl+V** line them up in a row or a column, and **Ctrl+Z** undoes. The **?** button lists all the shortcuts.
 - **Full window** gives the board the whole screen.
 - **Export…** creates a folder with the composition as a JPEG, the individual photos in reading order and a list of where each one came from.
@@ -91,6 +94,7 @@ In the full-screen view there's a **Study** bar. The tools don't impose rules: t
 | Stamp | F | The photo shown tiny: does it still hold up? |
 | Grid | G | Thirds, golden section, diagonals (rectangle armature), centre |
 | Lines | L | Draw guide lines and directions by hand (hold Shift for freehand); they're saved |
+| Zoom | + − 0 | Mouse wheel to zoom around the pointer, drag to move, double-click for 100%; grid and lines follow |
 
 The **?** button (or H) opens a guide on how and when to use each tool.
 

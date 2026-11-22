@@ -30,11 +30,13 @@ Requisiti: Windows 10 o 11 a 64 bit. Per aggiornare, scarica il nuovo installer 
 
 ### 1. Autori: il tuo archivio dei maestri
 
-**Indice.** È un elenco di fotografi divisi per genere (Street, Umanista, Documentario e reportage, Ritratto, Colore…), ciascuno con una nota su cosa guardare nel suo lavoro.
+**Indice.** È un elenco di fotografi divisi per genere (Street, Umanista, Documentario e reportage, Ritratto, Colore…), ciascuno con una nota su cosa guardare nel suo lavoro. Per chi attraversa più generi c'è **Vari**.
 - Un clic su un nome aggiunge l'autore al tuo archivio e apre subito la ricerca su Google Immagini.
 - Per un autore che non c'è, compila il modulo **Aggiungi all'indice**: nome, genere (scegline uno o scrivine uno nuovo) ed eventualmente una nota.
 
 ![L'indice degli autori, diviso per genere](docs/it-indice.png)
+
+**Raccolte.** In cima all'Indice puoi creare raccolte di foto di autori diversi: un concorso (per esempio il WSPA), una rivista, una mostra, un libro. Scrivi il nome ed eventualmente il link del sito, poi **Crea raccolta**. Una raccolta funziona come un autore: la trovi in cima alla colonna sinistra e ci salvi le foto con il tasto destro.
 
 **Naviga.** È un browser dentro l'app. Usalo come un browser qualsiasi: Google Immagini, il sito del fotografo, Instagram, articoli, archivi Magnum…
 - Quando trovi una foto che ti interessa, fai **tasto destro → Salva in &lt;autore&gt;**. Il tasto destro funziona anche su Instagram, dove le foto sono coperte da livelli trasparenti, e l'app sceglie la versione più grande disponibile.
@@ -69,6 +71,7 @@ Requisiti: Windows 10 o 11 a 64 bit. Per aggiornare, scarica il nuovo installer 
 Un tavolo è una superficie infinita su cui disporre foto: le tue, quelle dei maestri, o entrambe. Serve a provare sequenze, coppie e dittici.
 - **Aggiungi foto** apre il cassetto: trascina le foto sul tavolo. Il cassetto mostra solo quelle non ancora usate.
 - Trascina per spostare, usa l'angolo in basso a destra per ridimensionare e la rotellina per lo zoom. Il doppio clic apre la foto a tutto schermo.
+- Dalla foto a tutto schermo, **Aggiungi al tavolo** ti chiede su quale tavolo metterla (o ne crea uno nuovo) e conferma con un messaggio. Una foto già presente non si duplica.
 - **R** porta tutte le foto alla misura di quella selezionata, **Ctrl+O** / **Ctrl+V** le allineano in riga o in colonna e **Ctrl+Z** annulla. Il pulsante **?** mostra tutte le scorciatoie.
 - **Tutta finestra** dà al tavolo tutto lo schermo.
 - **Esporta…** crea una cartella con la composizione in JPEG, le singole foto in ordine di lettura e un elenco con la provenienza di ciascuna.
@@ -91,6 +94,7 @@ Nella visione a tutto schermo c'è la barra **Studio**. Gli strumenti non impong
 | Francobollo | F | La foto piccolissima: regge ancora? |
 | Griglia | G | Terzi, sezione aurea, diagonali (armatura del rettangolo), centro |
 | Linee | L | Tracci a mano linee guida e direzioni (Maiusc per il tratto libero); vengono salvate |
+| Zoom | + − 0 | Rotellina per ingrandire attorno al puntatore, trascina per spostarti, doppio clic per il 100%; griglia e linee seguono |
 
 Il pulsante **?** (oppure H) apre una guida su come e quando usare ogni strumento.
 
